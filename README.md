@@ -4,6 +4,7 @@ Hi everyone, I just moved this project from my personal space to Github.
 This program allows users to access real-time stock data(delay depends on the API provider).
 It has an Andriod interface.
 API provided by Sina Finance, finance.sina.com
+Next Version will use Yahoo API.
 
 Current program only supports real-time stock data. Source code has been upload.
 
